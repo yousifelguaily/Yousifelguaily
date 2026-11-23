@@ -40,5 +40,5 @@ My background is treasury and FP&A in Saudi Arabia, so I understand the numbers 
 
 Open to freelance projects in **financial dashboards, FP&A models and management reporting** (Arabic & English).
 
-- LinkedIn: add your link
-- Email: add your email
+- LinkedIn: https://www.linkedin.com/in/yousif-el-guaily-fmva®-161b11206?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Email: yousifaljeally85@gmail.com
