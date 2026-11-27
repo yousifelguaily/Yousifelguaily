@@ -21,11 +21,8 @@ My background is treasury and FP&A in Saudi Arabia, so I understand the numbers 
 
 | Project | Tools | Demo |
 |---|---|---|
-| Budget vs Actual Dashboard | Power BI, DAX, Power Query | coming soon |
+| [FP&A Board Pack: Budget vs Actual, IFRS statements, cash flow, AR, workforce](https://github.com/yousifelguaily/fpa-board-pack-powerbi) | Power BI, DAX, Power Query | [View →](https://github.com/yousifelguaily/fpa-board-pack-powerbi) |
 | 13-Week Cash Forecast | Excel, Power BI | coming soon |
-| AR Aging & Concentration | Power BI, Excel | coming soon |
-| ERP → IFRS Financial Statements | Power BI, D365 F&O data | coming soon |
-
 > All projects use synthetic data for a fictional company. No client or employer data is published.
 
 ---
